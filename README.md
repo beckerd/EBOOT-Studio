@@ -1,12 +1,20 @@
 # EBOOT Studio
 
+<img width="200"  alt="EBOOT Studio" src="https://github.com/user-attachments/assets/dbe63c60-ffb6-4996-b28b-d7d8cc50128f" />
+
+
+
 A native macOS app for customizing PSP EBOOT artwork and converting PlayStation 1 disc images into PSP `EBOOT.PBP` files.
 
 EBOOT Studio is a GUI wrapper around two existing projects — [pop-fe](https://github.com/sahlberg/pop-fe) and Neill Corlett's `unecm` — with their conversion logic ported to Swift so everything runs natively, no external tools required.
 
 The code for EBOOT Studio was written by Claude Fable 5, Anthropic's AI model. If you are not comfortable with AI-written code, this is not a project for you.
 
+<img width="400"  alt="Screenshot 2026-08-15 at 6 40 38 PM" src="https://github.com/user-attachments/assets/1faff90e-0f0d-44d4-ad93-a98b8a0a62d7" />
+
 ## Features
+<img width="400" alt="Screenshot 2026-08-15 at 6 58 19 PM" src="https://github.com/user-attachments/assets/a0faeea8-d848-4a8c-b882-9aa03aff782b" />
+
 
 - **Convert PSX → PSP** — turn a PS1 disc rip into a ready-to-use `EBOOT.PBP`:
   - BIN/CUE, CloneCD (CCD/IMG/SUB), plain ISO/IMG, and ECM-compressed images
@@ -14,6 +22,9 @@ The code for EBOOT Studio was written by Claude Fable 5, Anthropic's AI model. I
   - Multi-disc games (up to 5 discs in one EBOOT)
   - LibCrypt subchannel injection from `.sub` files
   - Optional swap of the POPS launch splash for the classic PlayStation boot screen
+
+<img width="400"  alt="Screenshot 2026-08-15 at 6 41 00 PM" src="https://github.com/user-attachments/assets/5dc8dbf9-3e28-48be-adaa-d46777a09423" />
+
 - **Edit an existing PBP** — open any `EBOOT.PBP` and:
   - Replace the game icon (`ICON0.PNG`), menu background (`PIC1.PNG`), and info panel (`PIC0.PNG`)
   - Rename the title shown on the PSP (`PARAM.SFO`)
