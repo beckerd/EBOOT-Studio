@@ -15,6 +15,13 @@ The code for EBOOT Studio was written by Claude Fable 5, Anthropic's AI model. I
 ## Features
 <img width="400" alt="Screenshot 2026-08-15 at 6 58 19 PM" src="https://github.com/user-attachments/assets/a0faeea8-d848-4a8c-b882-9aa03aff782b" />
 
+- **Edit an existing PBP** — open any `EBOOT.PBP` and:
+  - Replace the game icon (`ICON0.PNG`), menu background (`PIC1.PNG`), and info panel (`PIC0.PNG`)
+  - Rename the title shown on the PSP (`PARAM.SFO`)
+  - Export the existing images
+
+
+<img width="400"  alt="Screenshot 2026-08-15 at 6 41 00 PM" src="https://github.com/user-attachments/assets/5dc8dbf9-3e28-48be-adaa-d46777a09423" />
 
 - **Convert PSX → PSP** — turn a PS1 disc rip into a ready-to-use `EBOOT.PBP`:
   - BIN/CUE, CloneCD (CCD/IMG/SUB), plain ISO/IMG, and ECM-compressed images
@@ -23,12 +30,6 @@ The code for EBOOT Studio was written by Claude Fable 5, Anthropic's AI model. I
   - LibCrypt subchannel injection from `.sub` files
   - Optional swap of the POPS launch splash for the classic PlayStation boot screen
 
-<img width="400"  alt="Screenshot 2026-08-15 at 6 41 00 PM" src="https://github.com/user-attachments/assets/5dc8dbf9-3e28-48be-adaa-d46777a09423" />
-
-- **Edit an existing PBP** — open any `EBOOT.PBP` and:
-  - Replace the game icon (`ICON0.PNG`), menu background (`PIC1.PNG`), and info panel (`PIC0.PNG`)
-  - Rename the title shown on the PSP (`PARAM.SFO`)
-  - Export the existing images
 
 ## Download
 
