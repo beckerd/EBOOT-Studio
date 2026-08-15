@@ -10,10 +10,10 @@ EBOOT Studio is a GUI wrapper around two existing projects — [pop-fe](https://
 
 The code for EBOOT Studio was written by Claude Fable 5, Anthropic's AI model. If you are not comfortable with AI-written code, this is not a project for you.
 
-<img width="400"  alt="Screenshot 2026-08-15 at 6 40 38 PM" src="https://github.com/user-attachments/assets/1faff90e-0f0d-44d4-ad93-a98b8a0a62d7" />
+<img width="500"  alt="Screenshot 2026-08-15 at 6 40 38 PM" src="https://github.com/user-attachments/assets/1faff90e-0f0d-44d4-ad93-a98b8a0a62d7" />
 
 ## Features
-<img width="400" alt="Screenshot 2026-08-15 at 6 58 19 PM" src="https://github.com/user-attachments/assets/a0faeea8-d848-4a8c-b882-9aa03aff782b" />
+<img width="500" alt="Screenshot 2026-08-15 at 6 58 19 PM" src="https://github.com/user-attachments/assets/a0faeea8-d848-4a8c-b882-9aa03aff782b" />
 
 - **Edit an existing PBP** — open any `EBOOT.PBP` and:
   - Replace the game icon (`ICON0.PNG`), menu background (`PIC1.PNG`), and info panel (`PIC0.PNG`)
@@ -21,7 +21,7 @@ The code for EBOOT Studio was written by Claude Fable 5, Anthropic's AI model. I
   - Export the existing images
 
 
-<img width="400" alt="Screenshot 2026-08-15 at 7 18 17 PM" src="https://github.com/user-attachments/assets/41a96921-e70c-4178-a8b3-a616d45cb057" />
+<img width="500" alt="Screenshot 2026-08-15 at 7 18 17 PM" src="https://github.com/user-attachments/assets/41a96921-e70c-4178-a8b3-a616d45cb057" />
 
 
 - **Convert PSX → PSP** — turn a PS1 disc rip into a ready-to-use `EBOOT.PBP`:
