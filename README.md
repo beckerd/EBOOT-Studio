@@ -21,7 +21,8 @@ The code for EBOOT Studio was written by Claude Fable 5, Anthropic's AI model. I
   - Export the existing images
 
 
-<img width="400"  alt="Screenshot 2026-08-15 at 6 41 00 PM" src="https://github.com/user-attachments/assets/5dc8dbf9-3e28-48be-adaa-d46777a09423" />
+<img width="400" alt="Screenshot 2026-08-15 at 7 18 17 PM" src="https://github.com/user-attachments/assets/41a96921-e70c-4178-a8b3-a616d45cb057" />
+
 
 - **Convert PSX → PSP** — turn a PS1 disc rip into a ready-to-use `EBOOT.PBP`:
   - BIN/CUE, CloneCD (CCD/IMG/SUB), plain ISO/IMG, and ECM-compressed images
