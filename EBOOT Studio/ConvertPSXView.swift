@@ -73,11 +73,11 @@ struct ConvertPSXView: View {
                 Text("Opening Screen").font(.caption).foregroundStyle(.secondary)
                 Picker("Opening Screen", selection: $useOriginalBootScreen) {
                     Text("POPS default").tag(false)
-                    Text("Original PlayStation").tag(true)
+                    Text("Original").tag(true)
                 }
                 .pickerStyle(.segmented)
                 .labelsHidden()
-                Text("Keep the POPS splash shown at launch, or replace it with the classic PlayStation boot screen.")
+                Text("Keep the POPS splash shown at launch, or replace it with the classic boot screen.")
                     .font(.caption2)
                     .foregroundStyle(.secondary)
             }
@@ -380,7 +380,7 @@ struct ConvertPSXView: View {
         if useOriginalBootScreen {
             guard let url = Bundle.main.url(forResource: "ps1_boot", withExtension: "png"),
                   let data = try? Data(contentsOf: url) else {
-                errorMessage = "The bundled PlayStation boot screen image is missing."
+                errorMessage = "The bundled boot screen image is missing."
                 return
             }
             bootLogoPNG = data
